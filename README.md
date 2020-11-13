@@ -2,7 +2,7 @@
 # Title ![](https://img.shields.io/badge/License-MIT-important)
 Speed Typer Typing Game
 # Description
-Game to beat the clock by typing random words!
+Beat the clock by typing random words!
 
 Game Specifications
 
