@@ -4,14 +4,13 @@ Speed Typer Typing Game
 # Description
 Game to beat the clock by typing random words!
 
-Project Specifications
+Game Specifications
 
-- Wanted to create game UI including a difficuly setting
-- Generate random word and place in DOM
-- Score increase after word is typed
-- Implement timer
-- Add certain amount of time after word is typed based on difficulty
-- Store difficulty setting in local storage
+- Choose game difficuly on top once it's loaded
+- You start with 10s on the clock.
+- It will generate random word and be placed on the scrren and write it out.
+- Score will increase after word is typed.
+- Time will be added after every word based on difficulty!
 
 
 # Table of Contents
